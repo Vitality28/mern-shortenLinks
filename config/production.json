@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vitaliy learn mern",
+  "mongoUri": "mongodb+srv://vitaliy:1254pp1254@cluster0.e7nwk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
